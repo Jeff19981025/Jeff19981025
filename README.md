@@ -1,8 +1,6 @@
 #README
 - 👋 Hi, I’m @Jeff19981025
-- 👀 I’m interested in i don't really know
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me email: jeffsonglincai@gmail.com
 
 <!---
