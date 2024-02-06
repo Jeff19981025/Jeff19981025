@@ -1,6 +1,7 @@
 #README
 - 👋 Hi, I’m @Jeff19981025
-- 🌱 I’m currently learning computer science
+- 🌱 Computer Science
+- Software Engineer
 - 📫 How to reach me email: jeffsonglincai@gmail.com
 
 <!---
